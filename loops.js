@@ -39,4 +39,3 @@ var doWhileLoop = function(num) {
     console.log("I run once regardless.");
   } while (incrementVariable() <= num);
 };
-// doWhileLoop(10);

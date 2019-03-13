@@ -39,3 +39,4 @@ var doWhileLoop = function(num) {
     console.log("I run once regardless.");
   } while (incrementVariable() <= num);
 };
+// Cannot show function as called afterwards for some reason.
